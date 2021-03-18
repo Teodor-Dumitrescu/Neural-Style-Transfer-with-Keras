@@ -1,5 +1,7 @@
 # Neural-Style-Transfer-with-Keras
 
+The code was taken from the Keras documentation.
+
 # Original image - Style image - Result image:
 
 <p float="left">
